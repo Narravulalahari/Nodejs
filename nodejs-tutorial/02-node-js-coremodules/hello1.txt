@@ -1,0 +1,4 @@
+Data is manipulated by using the arithmetic instructions in digital computers. Data is manipulated
+to produce results necessary to give solution for the computation problems. The Addition,
+subtraction, multiplication and division are the four basic arithmetic operations. If we want then
+we can derive other operations by using these four operations.

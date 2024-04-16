@@ -1,0 +1,38 @@
+Groups, rings, and fields are the important elements of a branch of mathematics called as abstract
+algebra, or modern algebra. In abstract algebra, it is concerned with sets on whose elements and it can
+operate algebraically; that is, it can combine two elements of the set, perhaps in multiple ways, and it
+can obtain a third element of the set.
+Group
+A group (G) is indicated by {G,∙}. It is a group of elements with a binary operation ′ ∙ ′ that satisfies four
+properties. The properties of Group are as follows −
+Closure − If a and b are elements of G, therefore c = a ∙ b is also an element of set G. This can
+define that the result of using the operations on any two elements in the set is another element
+in the set.
+Associativity − If a, b, and c are element of G, therefore (a ∙ b) ∙ c = a ∙ (b ∙ c), means it does
+not substance in which order it can use the operations on higher than two elements.
+Identity − For all a in G, there occur an element e in G including e ∙ a = a ∙ e = a.
+Inverse − For each a in G, there occur an element a’ known as the inverse of a such that a ∙ a′
+= a′ ∙ a = e.
+A group is an abelian group if it satisfies the following four properties more one additional property of
+commutativity.
+Commutativity − For all a and b in G, we have a ∙ b = b ∙ a.
+Ring − A ring R is indicated by {R, +, x}. It is a set of elements with two binary operations, known as
+addition and multiplication including for all a, b, c in R the following axioms are kept −
+R is an abelian group regarding addition that is R satisfies properties A1 through A5. In the
+method of additive group, it indicates the identity element as 0 and the inverse of a as − a.
+(M1): Closure under multiplication − If and b belong to R, then ab is also in R.
+(M2): Associativity of Multiplication − a(bc)=(ab)c for all a, b, c in R.
+(M3): Distributive Laws −
+a(b+c)=ab + ac for all a, b, c in R
+(a+b)c=ac+bc for all a, b, c in R
+(M4): Commutative of Multiplication − ab=ba for all a, b in R.
+https://www.tutorialspoint.com/why-do-we-use-group-ring-and-fields-in-information-security
+1/212/03/2024, 15:34
+Why do we use Group, Ring and Fields in Information Security?
+(M5): Multiplicative identity − There is an element 1 in R including a1=1a for all a in R.
+(M6): No zero divisors − If a, b in R and ab = 0, therefore a = 0 or b = 0.
+Field − A field F is indicated by {F, +, x}. It is a set of elements with two binary operations known as
+addition and multiplication, including for all a, b, c in F the following axioms are kept −
+F1 is an integer domain that is F satisfies axioms A1 through A5 and M1 through M6.
+(M7): Multiplication inverse − For each a in F, except 0, there is an element a−1 in F such
+that aa−1 = (a−1)a=1.
